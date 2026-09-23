@@ -18,13 +18,13 @@ Fecha: 23/09/2026
   El patrón Singleton.
 
 - **¿Cuál te ha resultado más complicado?**  
-  La dependency injection
+  La dependency injection.
 
 - **¿Cuál utilizarías con más frecuencia?**  
-  
+  Los DAO.
 
 - **¿Qué patrón o concepto crees que será especialmente útil en desarrollo móvil?**  
-  
+  Dependency injection.
 
 - **¿Qué patrón crees que aparecerá con frecuencia cuando trabajemos con NestJS?**  
-  
+  Dependency injection.
